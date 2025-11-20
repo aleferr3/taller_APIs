@@ -1,0 +1,19 @@
+body {
+    background-image: url(fondo.jpg);
+}
+
+h1 {
+    background-color: white;
+    text-align: center;
+    font-size: 3rem;
+    padding: 1rem 0rem 1 rem 0rem
+}
+
+form {
+    background-color: white;
+    padding: 1rem;
+}
+
+#resultados {
+    background-color: white;
+}
